@@ -33,7 +33,7 @@ dataArrayD=[]
 window=Tk()
 window.geometry('1080x540')
 window.title('Start Window')
-window.iconbitmap('icon.ico')
+#window.iconbitmap('icon.ico')
 
 
 Label(window).place(x=1,y=0)
